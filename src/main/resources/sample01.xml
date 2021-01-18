@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<subscriptions>
+   <subscription>
+      <id>1</id>
+      <area>2500</area>
+      <plan>MONTHLY</plan>
+      <location>Indoor</location>
+   </subscription>
+   <subscription>
+      <id>2</id>
+      <area>4000</area>
+      <plan>YEARLY</plan>
+      <location>Outdoor</location>
+   </subscription>
+</subscriptions>

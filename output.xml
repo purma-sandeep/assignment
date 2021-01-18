@@ -1,0 +1,10 @@
+<result>
+  <subscription>
+    <id>1</id>
+    <cost>5000</cost>
+  </subscription>
+  <subscription>
+    <id>2</id>
+    <cost>6500</cost>
+  </subscription>
+</result>
